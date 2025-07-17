@@ -1,0 +1,4 @@
+07.17 2:47 PM
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KuniDevLua/GrowAGarden/refs/heads/main/EggRandomizer"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/grgV8smvEF/0", true))()
+loadstring(game:HttpGet("https://pastefy.app/Oj8qzOtm/raw"))()
